@@ -7,3 +7,12 @@ C:\Users\matthew.groves\Desktop\GitHub\mrRobot\sayTheMessage\obj\Debug\sayTheMes
 C:\Users\matthew.groves\Desktop\GitHub\mrRobot\sayTheMessage\obj\Debug\sayTheMessage.csproj.GenerateResource.Cache
 C:\Users\matthew.groves\Desktop\GitHub\mrRobot\sayTheMessage\obj\Debug\sayTheMessage.exe
 C:\Users\matthew.groves\Desktop\GitHub\mrRobot\sayTheMessage\obj\Debug\sayTheMessage.pdb
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\bin\Debug\sayTheMessage.exe.config
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\obj\Debug\sayTheMessage.exe
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\obj\Debug\sayTheMessage.pdb
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\bin\Debug\sayTheMessage.exe
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\bin\Debug\sayTheMessage.pdb
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\obj\Debug\sayTheMessage.csprojResolveAssemblyReference.cache
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\obj\Debug\sayTheMessage.Properties.Resources.resources
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\obj\Debug\sayTheMessage.sayTheMessage.resources
+C:\Users\matthew.groves\Desktop\GitHub\mrRobotMessage\sayTheMessage\obj\Debug\sayTheMessage.csproj.GenerateResource.Cache

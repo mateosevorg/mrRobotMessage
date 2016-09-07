@@ -19,7 +19,12 @@ namespace sayTheMessage
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("we see");
+            MessageBox.Show("see the truth");
+        }
+
+        private void sayTheMessage_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
